@@ -45,6 +45,28 @@ const engineers = {
     linkedin: 'woodentyler',
     portfolio: 'http://woodentyler.com',
     imageUrl: '#'
+  },
+  logan: {
+    fullName: 'Logan Cooper',
+    github: 'ldtcooper',
+    linkedin: 'ldtcooper',
+    portfolio: 'http://logan-cooper.com',
+    imageUrl: '#',
+    skills: [
+      'Ruby',
+      'Ruby on Rails',
+      'JavaScript',
+      'jQuery',
+      'React',
+      'Redux',
+      'D3',
+      'Python',
+      'HTML5',
+      'CSS3',
+      'SCSS',
+      'SQL',
+      'PostgreSQL'
+    ]
   }
 }
 
